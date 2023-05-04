@@ -1,0 +1,6 @@
+{
+    "api_token": "api-8c8392be7574dfdc",
+    "nightscout_url": "https://nightscout-midiantkl.herokuapp.com",
+    "refresh_rate": 0.5,
+    "with_direction": true
+}
